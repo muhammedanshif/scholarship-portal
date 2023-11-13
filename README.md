@@ -8,8 +8,7 @@
 <!--h2>&#127919; About</h2-->
 <h2>&#128204 About</h2>
 <ol>
-  <li> This project is made using HTML5, CSS3 and JavaScript. </li>
-  <li> The most fundamental concept Frames in HTML5 is used in this project. </li>
+  <li> This project is made using HTML5, CSS3, JavaScript, PHP,MYSQL </li>
   <li> This application is compatible with Internet Explorer, Firefox and Chrome. </li>
   <li> Run index1.html for main page.connect it to the mysql database </li>
 </ol>
@@ -18,14 +17,10 @@
 <ol>
   <li> It is user friendly website. </li>
   <li> There are mainly 4 sections such as login,registration,national scholarship page,international scholarshipage and the application form page </li>
-  <li> After entering profile information new tab will be open containing entered details. </li>
-  <li> Eventually, form will be submitted successfully. </li>
 </ol>
 
 
 
-<h2>📝 Licensed by </h2>
-<img src="https://img.shields.io/github/license/payloadbox/xss-payload-list">
     
 <h2>&#128105; Created by </h2>
 <p>ᑕ𝕣𝕖𝕒𝕥𝕖𝕕 𝕓𝕪 :)
