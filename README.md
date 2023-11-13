@@ -24,6 +24,6 @@
     
 <h2>&#128105; Created by </h2>
 <p>ᑕ𝕣𝕖𝕒𝕥𝕖𝕕 𝕓𝕪 :)
-<a href="https://github.com/CODING-Enthusiast9857" target="_blank">Muhammed Anshif.</a>
+<a href="[https://github.com/CODING-Enthusiast9857](https://github.com/muhammedanshif)" target="_blank">Muhammed Anshif.</a>
 </p>
 </html>
