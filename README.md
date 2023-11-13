@@ -12,7 +12,7 @@
 <h2>&#128640; Features</h2>
 <ol>
   <li> It is user friendly website. </li>
-  <li> There are 4 sections such as profile, address, course, other etc. </li>
+  <li> There are mainly 4 sections such as login,registration,national scholarship page,international scholarshipage and the application form page </li>
   <li> After entering profile information new tab will be open containing entered details. </li>
   <li> Eventually, form will be submitted successfully. </li>
 </ol>
