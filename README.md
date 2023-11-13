@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/github/license/payloadbox/xss-payload-list">
     
 <h2>&#128105; Created by </h2>
-<p>ᑕ𝕣𝕖𝕒𝕥𝕖𝕕 𝕨𝕚𝕥𝕙  𝕓𝕪 :)
+<p>ᑕ𝕣𝕖𝕒𝕥𝕖𝕕 𝕓𝕪 :)
 <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Muhammed Anshif.</a>
 </p>
 </html>
